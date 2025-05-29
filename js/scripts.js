@@ -7,9 +7,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // ✅ Imágenes de fondo distintas
     const backgroundImages = [
-        'img/img/pics/DSC_0034.jpg',
-        'img/img/pics/DSC_0033.jpg',
-        'img/img/pics/DSC_0032.jpg'
+        'img/img/pics/DSC_0034.JPG',
+        'img/img/pics/DSC_0033.JPG',
+        'img/img/pics/DSC_0032.JPG'
     ];
 
     let currentSlide = 0;
